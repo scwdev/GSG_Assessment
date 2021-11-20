@@ -9,10 +9,11 @@ I most enjoyed building out the models for Q4 (though in retrospect I could have
 This was a deep dive into a subject not really covered in my bootcamp, and I was so delighted by the challenge and the opportunity.
 
 #### References:
-Mostly SQLAlchemy docs and pandas docs. And plenty of Google -> stackoverflow for the quick “wait how do x?” questions.\
-Found this excellent graphic of [.csv processing benchmarks](https://user-images.githubusercontent.com/1036561/50426108-8c828480-083a-11e9-9a4d-f2b36bc47d2a.png) :grin:
+Mostly SQLAlchemy docs and pandas docs.\
+And plenty of Google -> stackoverflow for the quick “wait how do x?” questions.[^1]\
 
 [My webpage](www.noamblanks.com).
 [My linkedin](https://www.linkedin.com/in/noam-blanks/).
 
+[^1]:Found this excellent graphic of [.csv processing benchmarks](https://user-images.githubusercontent.com/1036561/50426108-8c828480-083a-11e9-9a4d-f2b36bc47d2a.png) :grin:
 
