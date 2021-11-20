@@ -11,7 +11,7 @@ I most enjoyed building out the models for Q4 (though in retrospect I could have
 This was a deep dive into a subject not really covered in my bootcamp, and I was delighted by the challenge.
 
 #### References:
- - Mostly SQLAlchemy docs and pandas docs.\
+ - Mostly SQLAlchemy docs and pandas docs.
  - Plenty of Google -> stackoverflow for the quick “wait how do x?” questions.[^1]
 
 [My webpage](www.noamblanks.com).
