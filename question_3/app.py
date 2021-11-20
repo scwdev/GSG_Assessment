@@ -11,7 +11,7 @@ min_match = 0.7
 min_diff = 0.2
 
 # --------------------
-print("\n\nHello there! Would you like to plaly a game?")
+print("\n\nHello there! Would you like to play a game?")
 print("To get started, please choose a minimum match score:\n")
 
 min_match = float(input("minimum match: "))
@@ -22,7 +22,7 @@ min_diff = float(input("minimum difference: "))
 # --------------------
 
 
-# The below query keep returning the whole table, no matter how I change id XD
+# The below query keep returning the whole table, no matter how I change it XD
 subq = session.query(m.target_id, func.max(m.score).label("max_score"))\
     .group_by(m.target_id).subquery()
 query = session.query(m).join(subq, m.target_id == subq.c.target_id)\
@@ -64,7 +64,6 @@ print("Nice work!")
 print(f"{yes_count} people matched those parameters!")
 print(f"{no_count} people have no match...")
 print(f"{(yes_count/starting_len)*100}% of entries matched those parameters")
-
 
 df = pd.DataFrame.from_dict(test_dict,orient='index',columns=['target_id', 'score'])
 df['source_id'] = df.index
