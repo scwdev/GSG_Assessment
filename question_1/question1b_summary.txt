@@ -1,0 +1,4 @@
+Gave responders a +/- 1 year on age match
+if gender matched sex or gender was not entered as male/female assumed match
+
+basically assume match.
