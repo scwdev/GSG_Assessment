@@ -10,7 +10,7 @@ This was a deep dive into a subject not really covered in my bootcamp, and I was
 
 #### References:
 Mostly SQLAlchemy docs and pandas docs.\
-And plenty of Google -> stackoverflow for the quick “wait how do x?” questions.[^1]\
+And plenty of Google -> stackoverflow for the quick “wait how do x?” questions.[^1]
 
 [My webpage](www.noamblanks.com).
 [My linkedin](https://www.linkedin.com/in/noam-blanks/).
