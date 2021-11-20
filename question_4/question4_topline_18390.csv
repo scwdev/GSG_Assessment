@@ -1,0 +1,227 @@
+,question_id,question_text,answer_text,answer_id,freq_weighted,percent_weighted
+0,D100,Gender (BY OBSERVATION),Male,1,189.80960187099993,0.4745240046869904
+1,D100,Gender (BY OBSERVATION),Female,2,210.190398121,0.5254759953130096
+2,D101,In what year were you born?,Refused,9999,40.431675836,1.0
+3,D102,What is the last grade of school or level of education you completed?,Did not complete high school,1,7.839879958,0.01959969989539199
+4,D102,What is the last grade of school or level of education you completed?,Graduated high school,2,84.19043935399998,0.21047609838920944
+5,D102,What is the last grade of school or level of education you completed?,Attended technical or vocational school,3,8.425416947,0.02106354236792127
+6,D102,What is the last grade of school or level of education you completed?,Attended some college but no degree,4,67.456108944,0.16864027236337278
+7,D102,What is the last grade of school or level of education you completed?,Graduated two-year college with Associate's degree,5,35.635362253,0.08908840563428175
+8,D102,What is the last grade of school or level of education you completed?,Graduated four-year college with Bachelor's degree,6,95.97312537600006,0.23993281344479878
+9,D102,What is the last grade of school or level of education you completed?,"Obtained Master's, PhD, or other professional degree (MD, DMD, etc.)",7,91.46958171799997,0.2286739542995734
+10,D102,What is the last grade of school or level of education you completed?,(Refused),8,9.010085442,0.0225252136054505
+11,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Respondent,1,65.269212302,0.16317303075826362
+12,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Household,2,36.09656345599999,0.0902414086418049
+13,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Both,3,22.842122712,0.05710530678114215
+14,D103,Are you or is anyone in your household an active or retired member of a labor union?,No,4,267.16360317899967,0.667909007960858
+15,D103,Are you or is anyone in your household an active or retired member of a labor union?,(Refused),5,8.628498343,0.021571245857931447
+16,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Respondent,1,42.935723675000006,0.10733930918964682
+17,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Household,2,44.952587184,0.11238146796224766
+18,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Both,3,2.248998533,0.005622496332612451
+19,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",No,4,304.4536168819999,0.7611340422202226
+20,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",(Refused),5,5.409073718,0.013522684295270457
+21,D105,"When it comes to politics, do you generally think of yourself as:",Very liberal,1,38.05960064400001,0.09514900161190298
+22,D105,"When it comes to politics, do you generally think of yourself as:",Somewhat liberal,2,67.54212415999999,0.16885531040337706
+23,D105,"When it comes to politics, do you generally think of yourself as:",Moderate,3,107.41752261100001,0.26854380653287085
+24,D105,"When it comes to politics, do you generally think of yourself as:",Somewhat conservative,4,92.49644907199999,0.2312411226846248
+25,D105,"When it comes to politics, do you generally think of yourself as:",Very conservative,5,70.70159864700001,0.1767539966210351
+26,D105,"When it comes to politics, do you generally think of yourself as:",(Refused),6,23.782704857999995,0.05945676214618912
+27,D300,"To ensure we have a representative sample, could you please tell me your race?",Black/African-American,1,12.636040851,0.031590102128131806
+28,D300,"To ensure we have a representative sample, could you please tell me your race?",White/Caucasian,2,322.727630202,0.8068190755211364
+29,D300,"To ensure we have a representative sample, could you please tell me your race?",Hispanic/Latino,3,14.694627953999998,0.036736569885734725
+30,D300,"To ensure we have a representative sample, could you please tell me your race?",Asian-American,4,2.7452496500000003,0.006863124125137263
+31,D300,"To ensure we have a representative sample, could you please tell me your race?",Native American,5,2.873736814,0.007184342035143687
+32,D300,"To ensure we have a representative sample, could you please tell me your race?",Other,6,4.59641402,0.011491035050229822
+33,D300,"To ensure we have a representative sample, could you please tell me your race?",(Refused),7,39.726300501,0.09931575125448631
+34,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",Yes,1,4.584127477,0.013484310889072895
+35,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",No,2,334.7598326769999,0.984703344232652
+36,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",(Refused),3,0.616124919,0.0018123448782750452
+37,DAGE,Derived Age ('Refused' assigned age from File),18-24,1,22.20340815,0.055508520376110176
+38,DAGE,Derived Age ('Refused' assigned age from File),25-29,2,11.502385589,0.09124200211182483
+39,DAGE,Derived Age ('Refused' assigned age from File),30-34,3,19.271572511,0.2158864131193177
+40,DAGE,Derived Age ('Refused' assigned age from File),35-39,4,22.118809665999997,0.0
+41,DAGE,Derived Age ('Refused' assigned age from File),40-44,5,23.096942991000006,0.02875596397307512
+42,DAGE,Derived Age ('Refused' assigned age from File),45-49,6,32.560412963000005,0.04817893127846358
+43,DAGE,Derived Age ('Refused' assigned age from File),50-54,7,49.23704297100001,0.055297024166105935
+44,DAGE,Derived Age ('Refused' assigned age from File),55-59,8,45.12284703600001,0.05774235747865487
+45,DAGE,Derived Age ('Refused' assigned age from File),60-64,9,52.03521202499999,0.08140103240912804
+46,DAGE,Derived Age ('Refused' assigned age from File),65-69,10,36.49680084399999,0.12309260742996188
+47,DAGE,Derived Age ('Refused' assigned age from File),70+,11,86.35456524599998,0.11280711759225617
+48,DAGE,Derived Age ('Refused' assigned age from File),Refused,12,0.0,0.13008803006510175
+49,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Black/African-American,1,15.815986924,0.03953996731079081
+50,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),White/Caucasian,2,358.79298609599994,0.8969824652579397
+51,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Hispanic/Latino,3,19.772040508,0.04943010127098861
+52,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Asian-American,4,2.7452496500000003,0.006863124125137265
+53,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Native American,5,2.873736814,0.007184342035143688
+54,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Other,6,0.0,0.0
+55,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),(Refused),7,0.0,0.0
+56,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Strong Democrat,1,113.79292071799999,0.2844823018006896
+57,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Weak Democrat,2,23.358330256,0.058395825641167916
+58,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent / Closer to the Democrats,3,38.25113036100001,0.09562782590441259
+59,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent,4,37.98987265799999,0.09497468164689947
+60,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent / Closer to the Republicans,5,55.51087996299999,0.1387771999102755
+61,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Weak Republican,6,24.780891777000004,0.06195222944373906
+62,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Strong Republican,7,102.46770082299997,0.2561692520626233
+63,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",(Don't know/Refused),8,3.8482734360000004,0.009620683590192415
+64,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Strong Democrat,1,113.79292071799999,0.2844823018006896
+65,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Not very strong Democrat,2,23.358330256,0.058395825641167916
+66,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Strong Republican,3,102.46770082299997,0.2561692520626233
+67,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Not very strong Republican,4,24.780891777000004,0.06195222944373906
+68,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Independent,5,119.63133575999997,0.2990783394059815
+69,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",(Don't know/Refused),6,15.968820658,0.03992205164579844
+70,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party?,Closer to Democrats,1,38.25113036100001,0.28208765661808954
+71,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party?,Closer to Republicans,2,55.51087996299999,0.4093717988929348
+72,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party?,(Neither/Independent),3,37.98987265799999,0.2801609796148959
+73,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party?,(Don't know/Refused),4,3.8482734360000004,0.02837956487407981
+74,P2T,How excited are you to vote in the November election for US Congress?,Very excited,1,171.83947279199992,0.4295986819885918
+75,P2T,How excited are you to vote in the November election for US Congress?,Somewhat excited,2,108.36045687899998,0.270901142202918
+76,P2T,How excited are you to vote in the November election for US Congress?,Not that excited,3,113.95635510900004,0.28489088777819793
+77,P2T,How excited are you to vote in the November election for US Congress?,(Don't know/Refused),4,5.843715211999999,0.014609288030292185
+78,PARTY,Party Registration (From Sample),Democrat,D,146.143305119,0.36535826280480727
+79,PARTY,Party Registration (From Sample),Independent/Other,I,104.57622355299995,0.26144055888772877
+80,PARTY,Party Registration (From Sample),Republican,R,149.28047131999995,0.373201178307464
+81,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Democrat,1,165.4103202479999,0.41352580062827043
+82,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Lean Democrat,2,13.733034284000002,0.034332585710686675
+83,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Republican,3,174.4526068879999,0.4361315172287226
+84,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Lean Republican,4,10.202348429,0.025505871073010132
+85,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",(Don't know/Refused),5,36.201690143,0.09050422535931013
+86,Q10,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Excellent,1,55.67020634899999,0.1391755158752835
+87,Q10,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Good,2,143.42117020799998,0.3585529255271711
+88,Q10,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Not so good,3,79.53698666999998,0.19884246667897684
+89,Q10,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Poor,4,58.66059593000001,0.14665148982793308
+90,Q10,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",(Don't Know/Refused),5,62.711040835,0.15677760209063557
+91,Q11,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Approve,1,4.904892278,0.06166806769221045
+92,Q11,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Disapprove,2,67.699762741,0.8511733418049542
+93,Q11,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",(Don't know/Refused),3,6.932331651,0.0871585905028353
+94,Q12,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Too liberal,1,131.64787720799998,0.3291196930265824
+95,Q12,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Too conservative,2,24.456207680000006,0.061140519201222834
+96,Q12,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Just about right,3,172.7023103069999,0.43175577577613494
+97,Q12,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",(Don't know/Refused),4,71.19360479700002,0.17798401199605976
+98,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly positive,1,90.424144911,0.22606036228202125
+99,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly negative,2,57.142630364999995,0.14285657591535714
+100,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-mix of positive and negative),3,14.008396306999996,0.035020990768200415
+101,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-Don't know/Refused),4,19.993745518999997,0.049984363798499694
+102,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",No,5,209.91935543899993,0.5247983886079959
+103,Q13,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Don't know/Refused),6,8.511727451,0.021279318627925592
+104,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Supports veterans/first responders,1,3.64748062,0.03223460273808778
+105,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Supports women's rights/equal rights,2,7.246870409,0.008696833936135833
+106,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Pro-choice,3,0.592894534,0.040706467353998084
+107,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Her platform/policies/values,4,16.444567531,0.019507936439173618
+108,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Pro-immigration,5,4.467193098999999,0.04045787097399263
+109,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Works for the people,6,18.121865096999997,0.04323524550903485
+110,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Pro-environment,7,1.192645799,0.04951245671892581
+111,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Democrat,8,4.232809405,0.06404420285268539
+112,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Taxes,11,4.606107666,0.0052397042671809115
+113,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Health care,12,2.207404902,0.14532883290862886
+114,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Stands up to Trump,13,4.5779779419999995,0.03947881014391578
+115,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Seniors/Social Security/Medicare,14,4.89224953,0.16015194681829822
+116,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Ads/commercials (no detail),15,5.60254233,0.010540004880961995
+117,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Other,10,0.984083269,0.037407444713501097
+118,Q14X,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",Can't remember,9,34.337505846000006,0.3034576397454791
+119,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Ran for other office,1,16.683312939,0.22629694629081196
+120,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Too liberal,2,2.2350991319999998,0.04992359456305575
+121,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Raise taxes,3,6.014741706000001,0.05640503662929568
+122,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Immigration,4,0.800502179,0.07971483462466769
+123,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Pro-choice,5,2.056484004,0.030317486105919788
+124,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Anti-guns/Second Amendment,6,2.056484004,0.08158557510564651
+125,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Anti-Trump,7,2.9621771040000002,0.010858226976212264
+126,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Her platform/policies,8,4.191353907,0.02789470244325445
+127,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Democrat,11,4.15835429,0.02789470244325445
+128,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",General negative (no detail),12,5.876824914000001,0.04017976737946034
+129,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Other,10,3.680522273,0.056852652314691665
+130,Q14Y,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",Can't remember,9,23.007245925,0.31207647512372944
+131,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly positive,1,36.67441207,0.09168603017683373
+132,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly negative,2,16.51999948,0.041299998700826
+133,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-mix of positive and negative),3,12.487426376000002,0.031218565940624377
+134,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-Don't know/Refused),4,14.91455776,0.03728639440074573
+135,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",No,5,316.60159769899997,0.7915039942633301
+136,Q15,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Don't know/Refused),6,2.802006607,0.007005016517640101
+137,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Pro-Trump,1,5.572453715,0.10372832060918448
+138,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Personal background,2,5.6970625429999995,0.07681426369435336
+139,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Taxes/Good for economy,3,2.591997254,0.028841105048810687
+140,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Pro-guns/Second Amendment,4,6.2642034639999995,0.10604784897542748
+141,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Local/Represents the people,5,2.643893786,0.048248677500417385
+142,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Republican,6,4.0374846820000005,0.1166048815310718
+143,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Pro-life,7,2.4692503830000003,0.04921470438643896
+144,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Not Aeryn Sun,11,1.549390967,0.07515567234265799
+145,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",General positive (no detail),10,4.126586901,0.04596380849296576
+146,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Other,9,1.5696995,0.3201615796162728
+147,Q16X,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",Can't remember,8,17.19959962,0.02921913780239924
+148,Q16Y,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",Pro-Trump,1,3.368047021,0.11610982090309614
+149,Q16Y,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",Republican,2,1.4713061509999998,0.05072170685892384
+150,Q16Y,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",His platform/policies,3,2.021647781,0.06969414628640119
+151,Q16Y,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",Ads/commercials (no detail),5,1.80160994,0.701365749032564
+152,Q16Y,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",Can't remember,4,20.344814963,0.06210857691901499
+153,Q2,Aeryn Sun,Favorable-Very,1,84.26428374600002,0.21066070936921327
+154,Q2,Aeryn Sun,Favorable-Somewhat,2,113.65648788599997,0.28414121972068274
+155,Q2,Aeryn Sun,Unfavorable-Somewhat,3,47.784559349,0.11946139837488923
+156,Q2,Aeryn Sun,Unfavorable-Very,4,67.716708669,0.16929177167588585
+157,Q2,Aeryn Sun,"(Heard of, but can't rate)",5,30.894539339999994,0.07723634835154472
+158,Q2,Aeryn Sun,Haven't heard of,6,38.03866135499999,0.0950966533894019
+159,Q2,Aeryn Sun,(Don't know/Refused),7,17.644759647,0.044111899118382245
+160,Q3,John Crichton,Favorable-Very,1,26.426256594999998,0.0660656414888213
+161,Q3,John Crichton,Favorable-Somewhat,2,39.681525534,0.09920381383698408
+162,Q3,John Crichton,Unfavorable-Somewhat,3,27.454105755,0.0686352643888727
+163,Q3,John Crichton,Unfavorable-Very,4,18.201334717,0.045503336793410065
+164,Q3,John Crichton,"(Heard of, but can't rate)",5,41.04733948199999,0.10261834870705233
+165,Q3,John Crichton,Haven't heard of,6,212.164571896,0.5304114297506082
+166,Q3,John Crichton,(Don't know/Refused),7,35.02486601299999,0.08756216503425122
+167,Q4,Donald Trump,Favorable-Very,1,136.65797009399995,0.34164492524183293
+168,Q4,Donald Trump,Favorable-Somewhat,2,53.85383994199999,0.13463459985769274
+169,Q4,Donald Trump,Unfavorable-Somewhat,3,31.565537599,0.07891384399907832
+170,Q4,Donald Trump,Unfavorable-Very,4,159.75608524299992,0.3993902131154878
+171,Q4,Donald Trump,"(Heard of, but can't rate)",5,6.792838636,0.01698209659033965
+172,Q4,Donald Trump,Haven't heard of,6,0.0,0.0
+173,Q4,Donald Trump,(Don't know/Refused),7,11.373728478,0.028434321195568702
+174,Q5,Democrats in Congress,Favorable-Very,1,74.51165970299999,0.1862791492612256
+175,Q5,Democrats in Congress,Favorable-Somewhat,2,92.21918011499999,0.23054795029211098
+176,Q5,Democrats in Congress,Unfavorable-Somewhat,3,42.906409137,0.10726602284464534
+177,Q5,Democrats in Congress,Unfavorable-Very,4,147.3241459669999,0.3683103649248661
+178,Q5,Democrats in Congress,"(Heard of, but can't rate)",5,15.125858298999997,0.03781464574825629
+179,Q5,Democrats in Congress,Haven't heard of,6,6.418379757000001,0.016045949392820925
+180,Q5,Democrats in Congress,(Don't know/Refused),7,21.494367013999998,0.05373591753607473
+181,Q6,Republicans in Congress,Favorable-Very,1,75.75549907,0.1893887476787878
+182,Q6,Republicans in Congress,Favorable-Somewhat,2,91.90310316699997,0.2297577579220951
+183,Q6,Republicans in Congress,Unfavorable-Somewhat,3,46.330944019000015,0.11582736004981659
+184,Q6,Republicans in Congress,Unfavorable-Very,4,136.32770199099994,0.34081925498431626
+185,Q6,Republicans in Congress,"(Heard of, but can't rate)",5,18.359518299,0.04589879574841798
+186,Q6,Republicans in Congress,Haven't heard of,6,6.312178038000001,0.015780445095315614
+187,Q6,Republicans in Congress,(Don't know/Refused),7,25.011055408,0.06252763852125055
+188,Q7,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Moya Shipson,1,195.32978178099992,0.4883244544622664
+189,Q7,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Moya Shipson,2,0.775049346,0.0019376233650387528
+190,Q7,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Rygel Smith,3,170.25934092199995,0.42564835231351295
+191,Q7,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Rygel Smith,4,12.000880826000001,0.030002202065600055
+192,Q7,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,21.634947117000003,0.05408736779358177
+193,Q8,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Bailar Crais,1,172.1246678599999,0.4303116696586061
+194,Q8,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Bailar Crais,2,13.024644922000002,0.03256161230565125
+195,Q8,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Carl Dargo,3,177.56457687799997,0.4439114422038783
+196,Q8,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Carl Dargo,4,16.497245258,0.04124311314582488
+197,Q8,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,20.788865074,0.051972162686039464
+198,Q9,Which of the following would you prefer?,A Congressmember who provides checks and balances on Donald Trump,1,173.95621882199984,0.4348905470636975
+199,Q9,Which of the following would you prefer?,A Congressmember who works with Donald Trump to get things done,2,187.55337652500006,0.4688834413218779
+200,Q9,Which of the following would you prefer?,(Undecided/Refused),3,38.490404645,0.09622601161442454
+201,REGNUM,Region (From Sample),County A,1,96.32981208399998,0.24082453021481645
+202,REGNUM,Region (From Sample),County B,2,86.61627064799998,0.2165406766243308
+203,REGNUM,Region (From Sample),County C,3,104.164346536,0.2604108663452082
+204,REGNUM,Region (From Sample),County D,4,61.37698277499997,0.1534424569405688
+205,REGNUM,Region (From Sample),County E,5,51.51258794900001,0.12878146987507566
+206,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,Yes,1,399.9999999920001,1.0
+207,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,No,2,0.0,0.0
+208,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,Don't know/Refused,3,0.0,0.0
+209,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Definitely,1,338.8548395860001,0.8471370989819428
+210,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Probably,2,44.67930302199999,0.11169825755723392
+211,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Chance 50-50,3,15.082954963999999,0.037707387410754134
+212,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Probably not,4,0.0,0.0
+213,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Definitely not,5,0.0,0.0
+214,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Don't Know/Refused,6,1.38290242,0.0034572560500691443
+215,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for him?",Chance might consider Sun,1,42.041747199999996,0.20749372340920896
+216,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for him?",NO chance would consider Sun,2,149.92068964199993,0.7399217249918433
+217,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for him?",(Don't Know/Refused),3,10.654521923,0.05258455159894772
+218,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",Chance might consider Crichton,1,49.67230758299999,0.21614190410707249
+219,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",NO chance would consider Crichton,2,156.50523366299996,0.681010020525406
+220,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",(Don't Know/Refused),3,23.635866700999998,0.10284807536752143
+221,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Aeryn Sun,1,193.23070362299987,0.4830767590671615
+222,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Aeryn Sun,2,4.1523376039999995,0.010380844010207623
+223,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",John Crichton,3,162.73787435099987,0.4068446858856368
+224,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean John Crichton,4,7.448717694000001,0.01862179423537245
+225,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,32.43036672,0.08107591680162157

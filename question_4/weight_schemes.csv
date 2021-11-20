@@ -1,0 +1,9 @@
+project_id,weight_scheme_id,name,final
+18390,0,Unweighted,f
+18390,1,Base,f
+18390,2,Composite,f
+18390,3,Tweak,f
+18390,4,Final,t
+18058,0,Unweighted,f
+18058,1,Base,f
+18058,2,Final,t

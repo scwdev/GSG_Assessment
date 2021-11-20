@@ -7,7 +7,6 @@ import pandas as pd
 
 from part_a import engine
 
-# connection = engine.connect() ## TODO Don't need this
 Base = declarative_base()
 
 engine.execute('ALTER TABLE vf_data ADD COLUMN vf_match Boolean')

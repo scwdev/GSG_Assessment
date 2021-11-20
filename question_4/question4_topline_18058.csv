@@ -1,0 +1,254 @@
+,question_id,question_text,answer_text,answer_id,freq_weighted,percent_weighted
+0,A19,Shares your values,Very well,1,30.811091494999992,0.1529010008391097
+1,A19,Shares your values,Somewhat well,2,71.40978405000001,0.3543732766728359
+2,A19,Shares your values,Not very well,3,23.108230483,0.11467531324052252
+3,A19,Shares your values,Not well at all,4,43.43931242800001,0.21556894039543598
+4,A19,Shares your values,(Don't know/Refused),5,32.741652282,0.16248146885209594
+5,A2,"In general, are things in the United States headed in the right direction, or are things off on the wrong track?",Right direction,1,76.756767207,0.38090784706635256
+6,A2,"In general, are things in the United States headed in the right direction, or are things off on the wrong track?",Wrong track,2,93.99591347900002,0.4664576471774054
+7,A2,"In general, are things in the United States headed in the right direction, or are things off on the wrong track?",(Neither/Mixed),3,18.087782777,0.08976118518918803
+8,A2,"In general, are things in the United States headed in the right direction, or are things off on the wrong track?",(Don't know/Refused),4,12.669607275,0.06287332056705398
+9,A20,Stands up for veterans,Very well,1,47.11576245999999,0.23381343814453384
+10,A20,Stands up for veterans,Somewhat well,2,46.167793253999996,0.22910911144498872
+11,A20,Stands up for veterans,Not very well,3,11.530356682999999,0.05721975403398859
+12,A20,Stands up for veterans,Not well at all,4,24.341946620999995,0.12079766798677267
+13,A20,Stands up for veterans,(Don't know/Refused),5,72.35421172,0.35906002838971623
+14,A21,Fiscally responsible with taxpayers' money,Very well,1,28.223950588999994,0.1400622335431379
+15,A21,Fiscally responsible with taxpayers' money,Somewhat well,2,64.401849425,0.3195961829060851
+16,A21,Fiscally responsible with taxpayers' money,Not very well,3,20.546858801000003,0.10196442652096868
+17,A21,Fiscally responsible with taxpayers' money,Not well at all,4,37.283209045999996,0.18501908569361278
+18,A21,Fiscally responsible with taxpayers' money,(Don't know/Refused),5,51.054202876999994,0.2533580713361955
+19,A22,Too focused on moving up in her political career,Very well,1,56.98277577000001,0.28277879890225466
+20,A22,Too focused on moving up in her political career,Somewhat well,2,43.19460292399999,0.21435456186287027
+21,A22,Too focused on moving up in her political career,Not very well,3,25.060966766999996,0.12436582784779945
+22,A22,Too focused on moving up in her political career,Not well at all,4,27.354292399000002,0.13574652769868556
+23,A22,Too focused on moving up in her political career,(Don't know/Refused),5,48.917432878,0.24275428368839005
+24,A5,Democrats in Congress,Favorable-Very,1,32.64775044699999,0.16201547807229966
+25,A5,Democrats in Congress,Favorable-Somewhat,2,57.083693729,0.283279607415846
+26,A5,Democrats in Congress,Unfavorable-Somewhat,3,25.765662763999998,0.12786290367343517
+27,A5,Democrats in Congress,Unfavorable-Very,4,70.354647689,0.3491371296299823
+28,A5,Democrats in Congress,"(Heard of, but can't rate)",5,7.615835357,0.037793820076129005
+29,A5,Democrats in Congress,Haven't heard of,6,1.098603877,0.005451855944353204
+30,A5,Democrats in Congress,(Don't know/Refused),7,6.943876874999999,0.03445920518795466
+31,B19,Agrees with you on the most important issues,Very well,1,31.852666121000006,0.1580856484319619
+32,B19,Agrees with you on the most important issues,Somewhat well,2,68.82693469900002,0.3415899491786129
+33,B19,Agrees with you on the most important issues,Not very well,3,20.922123118999995,0.1038370661744976
+34,B19,Agrees with you on the most important issues,Not well at all,4,44.091691494,0.21882826429074376
+35,B19,Agrees with you on the most important issues,(Don't know/Refused),5,35.796513836,0.1776590719241839
+36,B2,"In general, are things in your part of New York headed in the right direction, or are things off on the wrong track?",Right direction,1,60.47188867700002,0.30012362849294943
+37,B2,"In general, are things in your part of New York headed in the right direction, or are things off on the wrong track?",Wrong track,2,100.26085227400002,0.49759733718575244
+38,B2,"In general, are things in your part of New York headed in the right direction, or are things off on the wrong track?",(Neither/Mixed),3,35.054953889,0.17397868973490843
+39,B2,"In general, are things in your part of New York headed in the right direction, or are things off on the wrong track?",(Don't know/Refused),4,5.702234429,0.028300344586389758
+40,B20,Supports policies that protect us from global threats like terrorism,Very well,1,43.297100398999994,0.21488468707136232
+41,B20,Supports policies that protect us from global threats like terrorism,Somewhat well,2,61.80588554800001,0.3067442912518263
+42,B20,Supports policies that protect us from global threats like terrorism,Not very well,3,18.399114129999997,0.09131530392983651
+43,B20,Supports policies that protect us from global threats like terrorism,Not well at all,4,29.18934399500001,0.14486750827149603
+44,B20,Supports policies that protect us from global threats like terrorism,(Don't know/Refused),5,48.798485197,0.24218820947547887
+45,B21,Works in a bipartisan way to solve problems,Very well,1,39.91560573699999,0.19810223707861094
+46,B21,Works in a bipartisan way to solve problems,Somewhat well,2,60.25509729400002,0.29904768696184403
+47,B21,Works in a bipartisan way to solve problems,Not very well,3,17.760164512,0.08814417959464968
+48,B21,Works in a bipartisan way to solve problems,Not well at all,4,39.50752537000001,0.19607692311636735
+49,B21,Works in a bipartisan way to solve problems,(Don't know/Refused),5,44.051536355999986,0.21862897324852792
+50,B22,Too focused on trying to block President Trump's agenda,Very well,1,62.26290197000002,0.30901247618622
+51,B22,Too focused on trying to block President Trump's agenda,Somewhat well,2,46.73806132400001,0.23196226974501616
+52,B22,Too focused on trying to block President Trump's agenda,Not very well,3,28.33352606399999,0.14062006059952104
+53,B22,Too focused on trying to block President Trump's agenda,Not well at all,4,26.526118499,0.13164984768834867
+54,B22,Too focused on trying to block President Trump's agenda,(Don't know/Refused),5,37.629321411999996,0.18675534578089412
+55,B5,Republicans in Congress,Favorable-Very,1,27.383744998,0.13590627133250524
+56,B5,Republicans in Congress,Favorable-Somewhat,2,51.076103787,0.25349209249466076
+57,B5,Republicans in Congress,Unfavorable-Somewhat,3,31.150531561,0.15460093551083812
+58,B5,Republicans in Congress,Unfavorable-Very,4,75.534268774,0.3748786306493644
+59,B5,Republicans in Congress,"(Heard of, but can't rate)",5,8.035661354999998,0.03988120589526812
+60,B5,Republicans in Congress,Haven't heard of,6,0.0,0.0
+61,B5,Republicans in Congress,(Don't know/Refused),7,8.309618794,0.04124086411736345
+62,D100,Gender (By Observation),Male,1,191.22197161999992,0.4744962074855545
+63,D100,Gender (By Observation),Female,2,211.77802838700006,0.5255037925144456
+64,D101,In what year were you born? RECORD FOUR-DIGIT YEAR,Refused,9999,23.572103596999998,1.0
+65,D102,What is the last grade of school or level of education you completed?,Did not complete high school,1,6.6579037020000005,0.01652085285827383
+66,D102,What is the last grade of school or level of education you completed?,Graduated high school,2,80.14018015800002,0.1988590078327742
+67,D102,What is the last grade of school or level of education you completed?,Attended technical or vocational school,3,15.837580961,0.039299208339267755
+68,D102,What is the last grade of school or level of education you completed?,Attended some college but no degree,4,45.854940899,0.11378397245211788
+69,D102,What is the last grade of school or level of education you completed?,Graduated two-year college with Associate's degree,5,52.98663698200001,0.1314804887867981
+70,D102,What is the last grade of school or level of education you completed?,Graduated four-year college with Bachelor's degree,6,117.22989379200001,0.29089303669966193
+71,D102,What is the last grade of school or level of education you completed?,"Obtained Master's, PhD, or other professional degree (MD, DMD, etc.)",7,68.32743368000001,0.16954698183328332
+72,D102,What is the last grade of school or level of education you completed?,(Refused),8,15.965429832999998,0.03961645119782303
+73,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Respondent,1,76.853812171,0.19070424855996293
+74,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Household,2,42.41644533800001,0.10525172540263832
+75,D103,Are you or is anyone in your household an active or retired member of a labor union?,Yes-Both,3,6.913009314,0.017153869265210724
+76,D103,Are you or is anyone in your household an active or retired member of a labor union?,No,4,254.47161445600008,0.6314432120386599
+77,D103,Are you or is anyone in your household an active or retired member of a labor union?,(Refused),5,22.345118727999996,0.0554469447335282
+78,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Respondent,1,40.56447644,0.10065626908013749
+79,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Household,2,42.66542217700001,0.10586953393612637
+80,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",Yes-Both,3,2.979798474,0.007394040878283478
+81,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",No,4,293.866907309,0.7291982811511057
+82,D104,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",(Refused),5,22.923395606999993,0.05688187495434695
+83,D105,"When it comes to politics, do you generally think of yourself as:",Very liberal,1,46.935285725,0.11646472884413088
+84,D105,"When it comes to politics, do you generally think of yourself as:",Somewhat liberal,2,57.876364892,0.14361380866251786
+85,D105,"When it comes to politics, do you generally think of yourself as:",Moderate,3,120.34896304100002,0.2986326626275672
+86,D105,"When it comes to politics, do you generally think of yourself as:",Somewhat conservative,4,102.265471027,0.25376047400799917
+87,D105,"When it comes to politics, do you generally think of yourself as:",Very conservative,5,55.85527083500001,0.13859868693307648
+88,D105,"When it comes to politics, do you generally think of yourself as:",(Refused),6,19.718644486999995,0.048929638924708405
+89,D300,"To ensure we have a representative sample, could you please tell me your race?",Black/African-American,1,16.201315342,0.04020177504148536
+90,D300,"To ensure we have a representative sample, could you please tell me your race?",White/Caucasian,2,324.6071001119998,0.8054766752018899
+91,D300,"To ensure we have a representative sample, could you please tell me your race?",Hispanic/Latino,3,10.793947575999999,0.02678398902186729
+92,D300,"To ensure we have a representative sample, could you please tell me your race?",Asian-American,4,4.506370992,0.011182062014694115
+93,D300,"To ensure we have a representative sample, could you please tell me your race?",Native American,5,0.423162658,0.0010500314094110423
+94,D300,"To ensure we have a representative sample, could you please tell me your race?",Other (Specify),97,13.074768767999998,0.03244359495725286
+95,D300,"To ensure we have a representative sample, could you please tell me your race?",(Refused),99,33.393334559,0.08286187235339948
+96,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",Yes,1,7.434634493,0.02100872498178967
+97,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",No,2,342.3099109709997,0.9672963458932262
+98,D301,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",(Refused),3,4.138638758,0.011694929124984163
+99,D801,Of all the telephone calls that you receive are they...,Mostly or all on cell phone,1,117.39073966499998,0.2912921579726077
+100,D801,Of all the telephone calls that you receive are they...,Some on cell phones and some on regular landline phones,2,135.00007665700002,0.3349877832621714
+101,D801,Of all the telephone calls that you receive are they...,Mostly or all on regular landline phones,3,136.90551720800005,0.33971592358715136
+102,D801,Of all the telephone calls that you receive are they...,(Not sure/Refused),4,13.703666477,0.0340041351780694
+103,DAGE,Derived Age ('Refused' assigned age from file),18-24,1,22.953012327000003,0.056955365574693086
+104,DAGE,Derived Age ('Refused' assigned age from file),25-29,2,11.009964237999998,0.07474860930639393
+105,DAGE,Derived Age ('Refused' assigned age from file),30-34,3,13.413703089,0.232646427065438
+106,DAGE,Derived Age ('Refused' assigned age from file),35-39,4,19.222334005,0.0
+107,DAGE,Derived Age ('Refused' assigned age from file),40-44,5,32.34357150399999,0.027320010515654483
+108,DAGE,Derived Age ('Refused' assigned age from file),45-49,6,30.220626478999996,0.033284623049049646
+109,DAGE,Derived Age ('Refused' assigned age from file),50-54,7,52.19603146299998,0.047698099267161564
+110,DAGE,Derived Age ('Refused' assigned age from file),55-59,8,47.99537716900001,0.08025700124922627
+111,DAGE,Derived Age ('Refused' assigned age from file),60-64,9,49.765180072999996,0.07498914758926817
+112,DAGE,Derived Age ('Refused' assigned age from file),65-69,10,30.123689551,0.12951868849154677
+113,DAGE,Derived Age ('Refused' assigned age from file),70+,11,93.75651010900005,0.11909522870512738
+114,DAGE,Derived Age ('Refused' assigned age from file),Refused,12,0.0,0.12348679918644065
+115,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Black/African-American,1,16.617882561000002,0.041235440597298674
+116,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),White/Caucasian,2,361.5199297739997,0.8970717860241203
+117,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Hispanic/Latino,3,19.932654022,0.04946067995447591
+118,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Asian-American,4,4.506370992,0.011182062014694117
+119,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Native American,5,0.423162658,0.0010500314094110425
+120,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),Other,6,0.0,0.0
+121,DRACE,Derived Race ('Other' and 'Refused' assigned race from file),(Refused),7,0.0,0.0
+122,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Strong Democrat,1,115.32137104800002,0.2861572482530941
+123,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Weak Democrat,2,25.94929466,0.06439030932890637
+124,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent / Closer to the Democrats,3,37.63419049999999,0.09338508808770792
+125,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent,4,36.715882246999996,0.09110640755921154
+126,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Independent / Closer to the Republicans,5,52.55774095100001,0.13041623064537738
+127,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Weak Republican,6,22.640580882,0.05618010144319289
+128,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",Strong Republican,7,107.550110582,0.26687372352390043
+129,P1,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",(Don't know/Refused),8,4.630829137,0.011490891158609339
+130,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Strong Democrat,1,115.32137104800002,0.2861572482530941
+131,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Not very strong Democrat,2,25.94929466,0.06439030932890637
+132,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Strong Republican,3,107.550110582,0.26687372352390043
+133,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Not very strong Republican,4,22.640580882,0.05618010144319289
+134,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",Independent,5,124.567093994,0.3090994888134896
+135,P1X,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",(Don't know/Refused),6,6.971548840999999,0.017299128637416637
+136,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party ?,Closer to the Democrats,1,37.63419049999999,0.28610748665856106
+137,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party ?,Closer to the Republicans,2,52.55774095100001,0.399561222605342
+138,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party ?,(Neither/Independent),3,36.715882246999996,0.27912620546842515
+139,P1Y,Do you think of yourself as closer to the Democratic Party or the Republican Party ?,(Don't know/Refused),4,4.630829137,0.03520508526767179
+140,P2T,How excited are you to vote in the November election for US Congress?,Very excited,1,160.55377200100006,0.39839645657124384
+141,P2T,How excited are you to vote in the November election for US Congress?,Somewhat excited,2,130.437829978,0.32366707190008515
+142,P2T,How excited are you to vote in the November election for US Congress?,Not that excited,3,99.66348763399998,0.24730393953416585
+143,P2T,How excited are you to vote in the November election for US Congress?,(Don't know/Refused),4,12.344910394,0.03063253199450514
+144,PARTY,Party Registration (From Sample),Democrat,D,147.23385507100008,0.3653445535197088
+145,PARTY,Party Registration (From Sample),Independent/Other,I,105.32679227999998,0.2613568046604726
+146,PARTY,Party Registration (From Sample),Republican,R,150.43935265599998,0.37329864181981853
+147,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Democrat,1,158.55535588200004,0.3934376076408088
+148,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Lean Democrat,2,8.86994328,0.022009784813513473
+149,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Republican,3,150.465130533,0.3733626067751525
+150,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",Lean Republican,4,24.460129581999997,0.0606951106242559
+151,Q1,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",(Don't know/Refused),5,60.64944073000001,0.15049489014626932
+152,Q10,Which of the following would you prefer?,A Congressmember who provides checks and balances on Donald Trump,1,199.16777798300006,0.4942128485844679
+153,Q10,Which of the following would you prefer?,A Congressmember who works with Donald Trump to get things done,2,168.178911792,0.41731739898034437
+154,Q10,Which of the following would you prefer?,(Undecided/Refused),3,35.65331023199999,0.08846975243518783
+155,Q11,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Excellent,1,43.541042534999995,0.10804228916685779
+156,Q11,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Good,2,181.10374887500006,0.4493889550170082
+157,Q11,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Not so good,3,62.84126802800001,0.1559336675605669
+158,Q11,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Poor,4,63.471975818999994,0.15749869929999377
+159,Q11,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",(Don't Know/Refused),5,52.04196474999999,0.12913638895557325
+160,Q12,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Approve,1,9.839344612000001,0.15657457146816184
+161,Q12,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",Disapprove,2,44.10440796500001,0.7018382879439754
+162,Q12,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",(Don't know/Refused),3,8.897515450999999,0.1415871405878627
+163,Q13,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Too liberal,1,130.93014661300003,0.32488870126730973
+164,Q13,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Too conservative,2,20.408348073,0.050641062215001274
+165,Q13,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",Just about right,3,180.03360056699998,0.44673350015849345
+166,Q13,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",(Don't know/Refused),4,71.627904754,0.17773673635919565
+167,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly positive,1,66.96732432200001,0.16617202064723766
+168,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",Yes-mostly negative,2,54.75036158000001,0.13585697662295035
+169,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-mix of positive and negative),3,38.571259510000004,0.09571032136310179
+170,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Yes-Don't know/Refused),4,36.757129031,0.09120875689916011
+171,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",No,5,195.2999561370001,0.48461527576577595
+172,Q14,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",(Don't know/Refused),6,10.653969427000002,0.02643664870177405
+173,Q16,Strong advocate for constituents,Very well,1,143.84423775100004,0.35693359242804346
+174,Q16,Strong advocate for constituents,Somewhat well,2,105.870125769,0.2627050267175213
+175,Q16,Strong advocate for constituents,Not very well,3,42.400933353999996,0.10521323412720472
+176,Q16,Strong advocate for constituents,Not well at all,4,47.101392365,0.11687690412948354
+177,Q16,Strong advocate for constituents,(Don't know/Refused),5,63.783310767999986,0.1582712425977471
+178,Q17,Has good policies to create jobs and improve our economy,Very well,1,74.14166875500003,0.183974364153132
+179,Q17,Has good policies to create jobs and improve our economy,Somewhat well,2,131.01680078000004,0.32510372401420423
+180,Q17,Has good policies to create jobs and improve our economy,Not very well,3,35.29011370799999,0.08756852036572459
+181,Q17,Has good policies to create jobs and improve our economy,Not well at all,4,74.32948629800002,0.18444041264692043
+182,Q17,Has good policies to create jobs and improve our economy,(Don't know/Refused),5,88.22193046599999,0.21891297882001884
+183,Q18,Honest and trustworthy,Very well,1,89.90217088799997,0.2230823098919067
+184,Q18,Honest and trustworthy,Somewhat well,2,138.300184109,0.34317663550024263
+185,Q18,Honest and trustworthy,Not very well,3,26.777388321,0.06644513230901956
+186,Q18,Honest and trustworthy,Not well at all,4,71.59125871700002,0.17764580326490445
+187,Q18,Honest and trustworthy,(Don't know/Refused),5,76.428997972,0.1896501190339267
+188,Q3,Aeryn Sun,Favorable-Very,1,97.138964367,0.24103961380970895
+189,Q3,Aeryn Sun,Favorable-Somewhat,2,98.06432959900003,0.24333580545234906
+190,Q3,Aeryn Sun,Unfavorable-Somewhat,3,38.162901779,0.09469702674525339
+191,Q3,Aeryn Sun,Unfavorable-Very,4,74.474738161,0.1848008391059712
+192,Q3,Aeryn Sun,"(Heard of, but can't rate)",5,63.59862843199998,0.1578129737739337
+193,Q3,Aeryn Sun,Haven't heard of,6,16.744581338,0.04154982962210707
+194,Q3,Aeryn Sun,(Don't know/Refused),7,14.815856330999997,0.036763911490676544
+195,Q4,John Crichton,Favorable-Very,1,21.671344943000005,0.05377504948541831
+196,Q4,John Crichton,Favorable-Somewhat,2,32.077756623999996,0.0795974109762849
+197,Q4,John Crichton,Unfavorable-Somewhat,3,14.888913663,0.036945195192906656
+198,Q4,John Crichton,Unfavorable-Very,4,13.633965717,0.03383118043861832
+199,Q4,John Crichton,"(Heard of, but can't rate)",5,71.846672237,0.17827958371154354
+200,Q4,John Crichton,Haven't heard of,6,214.99735238400007,0.5334921895291951
+201,Q4,John Crichton,(Don't know/Refused),7,33.883994439,0.08407939066603334
+202,Q6,Donald Trump,Favorable-Very,1,123.21205985300003,0.30573712121801455
+203,Q6,Donald Trump,Favorable-Somewhat,2,61.523295364,0.15266326392786936
+204,Q6,Donald Trump,Unfavorable-Somewhat,3,28.189699119,0.06994962560424405
+205,Q6,Donald Trump,Unfavorable-Very,4,177.87786836600003,0.441384288741713
+206,Q6,Donald Trump,"(Heard of, but can't rate)",5,5.224511811,0.01296404915858375
+207,Q6,Donald Trump,Haven't heard of,6,0.0,0.0
+208,Q6,Donald Trump,(Don't know/Refused),7,6.972565494,0.017301651349575405
+209,Q7,Nancy Pelosi,Favorable-Very,1,45.259116846999994,0.11230550085909145
+210,Q7,Nancy Pelosi,Favorable-Somewhat,2,80.193990206,0.19899253152507954
+211,Q7,Nancy Pelosi,Unfavorable-Somewhat,3,42.748221861000005,0.10607499220907564
+212,Q7,Nancy Pelosi,Unfavorable-Very,4,184.33370419300005,0.4574037324808889
+213,Q7,Nancy Pelosi,"(Heard of, but can't rate)",5,32.51427249899999,0.08068057691919413
+214,Q7,Nancy Pelosi,Haven't heard of,6,5.254783435,0.01303916485089014
+215,Q7,Nancy Pelosi,(Don't know/Refused),7,12.695910966000001,0.03150350115578034
+216,Q8,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Moya Shipson,1,180.95076566200004,0.44900934406664256
+217,Q8,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Moya Shipson,2,15.667536734999999,0.03887726236905175
+218,Q8,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Rygel Smith,3,152.264736206,0.3778281295368615
+219,Q8,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Rygel Smith,4,10.967507435000002,0.02721465864716997
+220,Q8,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,43.149453968999985,0.10707060538027416
+221,Q9,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Bailar Crais,1,162.72884308900004,0.40379365530067857
+222,Q9,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Bailar Crais,2,7.386251486,0.018328167458738713
+223,Q9,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Carl Dargo,3,193.83156888000002,0.4809716349296109
+224,Q9,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Carl Dargo,4,5.129822584999999,0.012729088300027036
+225,Q9,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,33.92351396699999,0.08417745401094477
+226,QAREA,Region (from Sample),County A,1,96.98225356100001,0.24065075324892174
+227,QAREA,Region (from Sample),County B,2,87.203532292,0.2163859362046782
+228,QAREA,Region (from Sample),County C,3,104.87198190099996,0.2602282429260009
+229,QAREA,Region (from Sample),County D,4,62.07051985900001,0.15402114108665474
+230,QAREA,Region (from Sample),County E,5,51.871712393999985,0.1287139265337444
+231,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,Yes,1,403.0000000069997,1.0
+232,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,No,2,0.0,0.0
+233,S1,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,Don't know/Refused,3,0.0,0.0
+234,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Definitely,1,357.1968055089997,0.8863444305280286
+235,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Probably,2,29.512146597000005,0.07323113299376527
+236,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Chance 50-50,3,14.455770254,0.035870397651982425
+237,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Probably not,4,0.0,0.0
+238,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Definitely not,5,0.0,0.0
+239,S2,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",Don't Know/Refused,6,1.835277647,0.00455403882622363
+240,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for her?",Chance might consider Sun,1,49.054526978999995,0.26051011151154047
+241,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for her?",NO chance would consider Sun,2,126.85390549399999,0.6736732999191593
+242,SW2,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for her?",(Don't Know/Refused),3,12.393383124,0.0658165885693003
+243,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",Chance might consider Crichton,1,88.60034666800001,0.3245804909636688
+244,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",NO chance would consider Crichton,2,151.52603040100004,0.5551038476816222
+245,SW3,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",(Don't Know/Refused),3,32.84242153299999,0.12031566135470896
+246,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Aeryn Sun,1,195.10062305500003,0.48412065273352656
+247,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean Aeryn Sun,2,19.597561354999996,0.0486291845028774
+248,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",John Crichton,3,125.65952860400002,0.31181024466952195
+249,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",Lean John Crichton,4,4.371672801,0.010847823327355
+250,V1,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",(Undecided/Refused),5,58.27061419199999,0.14459209476671922
+251,VER,VERSION,A,1,201.5100707380001,0.5000249894156326
+252,VER,VERSION,B,2,201.4899292689999,0.4999750105843674

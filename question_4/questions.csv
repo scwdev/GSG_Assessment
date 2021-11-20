@@ -1,0 +1,93 @@
+project_id,question_id,filter,nummult,row_order,short_name,suppress,text,type
+18390,S1,,1,1,Voter Registration,f,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,punch
+18390,S2,,1,2,Likelihood to Vote,f,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",punch
+18390,P1,,1,3,Party Identification,f,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF IND/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",punch
+18390,P1X,,1,4,,t,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",punch
+18390,P1Y,P1X(5-6),1,5,,t,Do you think of yourself as closer to the Democratic Party or the Republican Party?,punch
+18390,P2T,,1,6,Excitement to Vote,f,How excited are you to vote in the November election for US Congress?,punch
+18390,Q1,,1,7,Generic ballot,f,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",punch
+18390,DISP12,,,8,,f,"I have a list of names, and I would like to get your opinion of each one. Just let me know if there's one you haven't heard of... Do you have a favorable or unfavorable opinion of (ITEM)? (IF FAVORABLE) And is your opinion very favorable or somewhat favorable? (IF UNFAVORABLE) And is your opinion very unfavorable or somewhat unfavorable?",disp
+18390,Q2,,1,9,Aeryn Sun,f,Aeryn Sun,punch
+18390,Q3,,1,10,John Crichton,f,John Crichton,punch
+18390,Q4,,1,11,Donald Trump,f,Donald Trump,punch
+18390,Q5,,1,12,Democrats in Congress,f,Democrats in Congress,punch
+18390,Q6,,1,13,Republicans in Congress,f,Republicans in Congress,punch
+18390,Q7,,1,14,Senate vote,f,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18390,Q8,,1,15,Governor vote,f,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18390,V1,,1,16,Initial Vote,f,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18390,SW2,"V1(3,4,5)",1,17,Considering Sun,f,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for him?",punch
+18390,SW3,"V1(1,2,5)",1,18,Considering Crichton,f,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",punch
+18390,Q9,,1,19,Which of the following would you prefer?,f,Which of the following would you prefer?,punch
+18390,Q10,,1,20,Sun Rating,f,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF NOT SO GOOD) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",punch
+18390,Q11,Q10(3),1,21,,t,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",punch
+18390,Q12,,1,22,Sun ideology,f,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",punch
+18390,Q13,,1,23,Seen/read/heard - Sun,f,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",punch
+18390,Q14X,"Q13(1,3)",3,24,Positive/Mixed - Sun,f,"In a few words, what positive things have you seen, read, or heard recently about Aeryn Sun?",punch
+18390,Q14Y,"Q13(2,3)",3,25,Negative/Mixed - Sun,f,"In a few words, what negative things have you seen, read, or heard recently about Aeryn Sun?",punch
+18390,Q15,,1,26,Seen/read/heard - Crichton,f,"Have you seen, read, or heard anything in the past few weeks about John Crichton? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",punch
+18390,Q16X,"Q15(1,3)",3,27,Positive/Mixed - Crichton,f,"In a few words, what positive things have you seen, read, or heard recently about John Crichton?",punch
+18390,Q16Y,"Q15(2,3)",3,28,Negative/Mixed - Crichton,f,"In a few words, what negative things have you seen, read, or heard recently about John Crichton?",punch
+18390,DAGE,,1,29,Derived Age,f,Derived Age ('Refused' assigned age from File),punch
+18390,D101,,1,30,Age,t,In what year were you born?,punch
+18390,D102,,1,31,Education,f,What is the last grade of school or level of education you completed?,punch
+18390,D103,,1,32,Union,f,Are you or is anyone in your household an active or retired member of a labor union?,punch
+18390,D104,,1,33,Military,f,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",punch
+18390,D105,,1,34,Ideology,f,"When it comes to politics, do you generally think of yourself as:",punch
+18390,DRACE,,1,35,Derived Race,f,Derived Race ('Other' and 'Refused' assigned race from file),punch
+18390,D300,,1,36,Ethnicity,t,"To ensure we have a representative sample, could you please tell me your race?",punch
+18390,D301,,1,37,Hispanic Follow-Up,t,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",punch
+18390,D100,,1,38,Gender,f,Gender (BY OBSERVATION),punch
+18390,PARTY,,1,39,Party,f,Party Registration (From Sample),punch
+18390,REGNUM,,1,40,Region,f,Region (From Sample),punch
+18058,VER,,1,1,VERSION,t,VERSION,punch
+18058,S1,,1,2,Voter Registration,f,Are you at least 18 years old and registered to vote at (ADDRESS ON FILE)?,punch
+18058,S2,,1,3,Likelihood to Vote,f,"As you may know, there will be an election for Governor, US Senate, US Congress, and other offices this November. How likely are you to vote in the election for US Congress? Will you definitely vote, probably vote, are the chances 50-50, probably not vote, or definitely not vote?",punch
+18058,D101,,1,4,Age,t,In what year were you born? RECORD FOUR-DIGIT YEAR,punch
+18058,P1,,1,5,Party Identification,f,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent? (IF INDEPENDENT/DK/REFUSED) Do you think of yourself as closer to the Democratic Party or the Republican Party?",punch
+18058,P1X,,1,6,,t,"No matter how you may be planning to vote this year, when it comes to politics, do you generally think of yourself as a strong Democrat, not very strong Democrat, strong Republican, not very strong Republican, or Independent?",punch
+18058,P1Y,"P1X(5,6)",1,7,,t,Do you think of yourself as closer to the Democratic Party or the Republican Party ?,punch
+18058,P2T,,1,8,Excitement to Vote,f,How excited are you to vote in the November election for US Congress?,punch
+18058,Q1,,1,9,Generic ballot,f,"If an election for US Congress was today, would you vote for the Democratic candidate or the Republican candidate? (IF DON'T KNOW/NOT SURE) But if you had to choose based only on party affiliation, which way would you lean?",punch
+18058,A2,VER(1),1,10,US direction,f,"In general, are things in the United States headed in the right direction, or are things off on the wrong track?",punch
+18058,B2,VER(2),1,11,Your area direction,f,"In general, are things in your part of New York headed in the right direction, or are things off on the wrong track?",punch
+18058,DISP32,,,12,,f,"I have a list of names, and I would like to get your opinion of each one. Just let me know if there's one you haven't heard of...Do you have a favorable or unfavorable opinion of (ITEM)? (IF FAVORABLE) And is your opinion very favorable or somewhat favorable? (IF UNFAVORABLE) And is your opinion very unfavorable or somewhat unfavorable?",disp
+18058,Q3,,1,13,Aeryn Sun,f,Aeryn Sun,punch
+18058,Q4,,1,14,John Crichton,f,John Crichton,punch
+18058,A5,VER(1),1,15,Democrats in Congress,f,Democrats in Congress,punch
+18058,B5,VER(2),1,16,Republicans in Congress,f,Republicans in Congress,punch
+18058,Q6,,1,17,Donald Trump,f,Donald Trump,punch
+18058,Q7,,1,18,Nancy Pelosi,f,Nancy Pelosi,punch
+18058,Q8,,1,19,Senate vote,f,"If the election for U.S. Senate was today, for which candidate would you vote - Democrat Moya Shipson or Republican Rygel Smith? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18058,Q9,,1,20,Governor vote,f,"If the election for Governor was today, for which candidate would you vote - Democrat Bailar Crais or Republican Carl Dargo? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18058,V1,,1,21,Initial Vote,f,"If the election for US Congress was today, for which candidate would you vote - Democrat Aeryn Sun or Republican John Crichton? (IF UNDECIDED) But if you had to decide today, which way would you lean?",punch
+18058,SW2,"V1(3,4,5)",1,22,Considering Sun,f,"Is there a chance you might consider voting for Democrat Aeryn Sun, or would you say there is NO chance you would consider voting for her?",punch
+18058,SW3,"V1(1,2,5)",1,23,Considering Crichton,f,"Is there a chance you might consider voting for Republican John Crichton, or would you say there is NO chance you would consider voting for him?",punch
+18058,Q10,,1,24,Which of the following would you prefer?,f,Which of the following would you prefer?,punch
+18058,Q11,,1,25,Sun job rating,f,"How would you rate the job Aeryn Sun is doing as your Congresswoman? (IF JUST FAIR) If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",punch
+18058,Q12,Q11(3),1,26,,t,"If you had to choose, would you say you approve or disapprove of the job Aeryn Sun is doing as your Congresswoman?",punch
+18058,Q13,,1,27,Sun ideology,f,"Based on his positions on issues, do you think Aeryn Sun is too liberal, too conservative, or just about right?",punch
+18058,Q14,,1,28,Seen/read/heard - Sun,f,"Have you seen, read, or heard anything in the past few weeks about Aeryn Sun? (IF YES) Has what you've seen, read, or heard been mostly positive or mostly negative?",punch
+18058,DISP53,,,29,,f,"I am going to read you some descriptions. For each, please tell me whether you think it describes Aeryn Sun very well, somewhat well, not very well, or not well at all. Here's the first one.",disp
+18058,Q16,,1,30,Strong advocate for constituents,f,Strong advocate for constituents,punch
+18058,Q17,,1,31,Create jobs and improve our economy,f,Has good policies to create jobs and improve our economy,punch
+18058,Q18,,1,32,Honest and trustworthy,f,Honest and trustworthy,punch
+18058,A19,VER(1),1,33,Shares your values,f,Shares your values,punch
+18058,B19,VER(2),1,34,Agrees with you on the most important issues,f,Agrees with you on the most important issues,punch
+18058,A20,VER(1),1,35,Stands up for veterans,f,Stands up for veterans,punch
+18058,B20,VER(2),1,36,Protects from global threats like terrorism,f,Supports policies that protect us from global threats like terrorism,punch
+18058,A21,VER(1),1,37,Fiscally responsible with taxpayers' money,f,Fiscally responsible with taxpayers' money,punch
+18058,B21,VER(2),1,38,Works in a bipartisan way to solve problems,f,Works in a bipartisan way to solve problems,punch
+18058,A22,VER(1),1,39,Too focused on moving up in her political career,f,Too focused on moving up in her political career,punch
+18058,B22,VER(2),1,40,Too focused on blocking Trump,f,Too focused on trying to block President Trump's agenda,punch
+18058,DAGE,,1,41,Derived Age,f,Derived Age ('Refused' assigned age from file),punch
+18058,D102,,1,42,Education,f,What is the last grade of school or level of education you completed?,punch
+18058,D103,,1,43,Union,f,Are you or is anyone in your household an active or retired member of a labor union?,punch
+18058,D104,,1,44,Military,f,"Are you or is anyone in your household a veteran, active military, or in the National Guard or Reserves?",punch
+18058,D105,,1,45,Ideology,f,"When it comes to politics, do you generally think of yourself as:",punch
+18058,DRACE,,1,46,Derived Race,f,Derived Race ('Other' and 'Refused' assigned race from file),punch
+18058,D300,,1,47,Ethnicity,t,"To ensure we have a representative sample, could you please tell me your race?",punch
+18058,D301,"D300(01,02,97)",1,48,Hispanic Follow-Up,t,"Do you consider yourself Hispanic, Latino, or Spanish-speaking American?",punch
+18058,D801,,1,49,,t,Of all the telephone calls that you receive are they...,punch
+18058,QAREA,,1,50,Region,f,Region (from Sample),punch
+18058,D100,,1,51,Gender,f,Gender (By Observation),punch
+18058,PARTY,,1,52,Party,f,Party Registration (From Sample),punch

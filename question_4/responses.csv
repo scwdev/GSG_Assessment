@@ -1,0 +1,480 @@
+project_id,question_id,response,response_index,suppress,text
+18390,D100,1,1,f,Male
+18390,D100,2,2,f,Female
+18390,D101,9999,1,f,Refused
+18390,D102,1,1,f,Did not complete high school
+18390,D102,2,2,f,Graduated high school
+18390,D102,3,3,f,Attended technical or vocational school
+18390,D102,4,4,f,Attended some college but no degree
+18390,D102,5,5,f,Graduated two-year college with Associate's degree
+18390,D102,6,6,f,Graduated four-year college with Bachelor's degree
+18390,D102,7,7,f,"Obtained Master's, PhD, or other professional degree (MD, DMD, etc.)"
+18390,D102,8,8,f,(Refused)
+18390,D103,1,1,f,Yes-Respondent
+18390,D103,2,2,f,Yes-Household
+18390,D103,3,3,f,Yes-Both
+18390,D103,4,4,f,No
+18390,D103,5,5,f,(Refused)
+18390,D104,1,1,f,Yes-Respondent
+18390,D104,2,2,f,Yes-Household
+18390,D104,3,3,f,Yes-Both
+18390,D104,4,4,f,No
+18390,D104,5,5,f,(Refused)
+18390,D105,1,1,f,Very liberal
+18390,D105,2,2,f,Somewhat liberal
+18390,D105,3,3,f,Moderate
+18390,D105,4,4,f,Somewhat conservative
+18390,D105,5,5,f,Very conservative
+18390,D105,6,6,f,(Refused)
+18390,D300,1,1,f,Black/African-American
+18390,D300,2,2,f,White/Caucasian
+18390,D300,3,3,f,Hispanic/Latino
+18390,D300,4,4,f,Asian-American
+18390,D300,5,5,f,Native American
+18390,D300,6,6,f,Other
+18390,D300,7,7,f,(Refused)
+18390,D301,1,1,f,Yes
+18390,D301,2,2,f,No
+18390,D301,3,3,f,(Refused)
+18390,DAGE,1,1,f,18-24
+18390,DAGE,2,2,f,25-29
+18390,DAGE,3,3,f,30-34
+18390,DAGE,4,4,f,35-39
+18390,DAGE,5,5,f,40-44
+18390,DAGE,6,6,f,45-49
+18390,DAGE,7,7,f,50-54
+18390,DAGE,8,8,f,55-59
+18390,DAGE,9,9,f,60-64
+18390,DAGE,10,10,f,65-69
+18390,DAGE,11,11,f,70+
+18390,DAGE,12,12,f,Refused
+18390,DRACE,1,1,f,Black/African-American
+18390,DRACE,2,2,f,White/Caucasian
+18390,DRACE,3,3,f,Hispanic/Latino
+18390,DRACE,4,4,f,Asian-American
+18390,DRACE,5,5,f,Native American
+18390,DRACE,6,6,f,Other
+18390,DRACE,7,7,f,(Refused)
+18390,P1,1,1,f,Strong Democrat
+18390,P1,2,2,f,Weak Democrat
+18390,P1,3,3,f,Independent / Closer to the Democrats
+18390,P1,4,4,f,Independent
+18390,P1,5,5,f,Independent / Closer to the Republicans
+18390,P1,6,6,f,Weak Republican
+18390,P1,7,7,f,Strong Republican
+18390,P1,8,8,f,(Don't know/Refused)
+18390,P1X,1,1,f,Strong Democrat
+18390,P1X,2,2,f,Not very strong Democrat
+18390,P1X,3,3,f,Strong Republican
+18390,P1X,4,4,f,Not very strong Republican
+18390,P1X,5,5,f,Independent
+18390,P1X,6,6,f,(Don't know/Refused)
+18390,P1Y,1,1,f,Closer to Democrats
+18390,P1Y,2,2,f,Closer to Republicans
+18390,P1Y,3,3,f,(Neither/Independent)
+18390,P1Y,4,4,f,(Don't know/Refused)
+18390,P2T,1,1,f,Very excited
+18390,P2T,2,2,f,Somewhat excited
+18390,P2T,3,3,f,Not that excited
+18390,P2T,4,4,f,(Don't know/Refused)
+18390,PARTY,D,1,f,Democrat
+18390,PARTY,I,2,f,Independent/Other
+18390,PARTY,R,3,f,Republican
+18390,Q1,1,1,f,Democrat
+18390,Q1,2,2,f,Lean Democrat
+18390,Q1,3,3,f,Republican
+18390,Q1,4,4,f,Lean Republican
+18390,Q1,5,5,f,(Don't know/Refused)
+18390,Q10,1,1,f,Excellent
+18390,Q10,2,2,f,Good
+18390,Q10,3,3,f,Not so good
+18390,Q10,4,4,f,Poor
+18390,Q10,5,5,f,(Don't Know/Refused)
+18390,Q11,1,1,f,Approve
+18390,Q11,2,2,f,Disapprove
+18390,Q11,3,3,f,(Don't know/Refused)
+18390,Q12,1,1,f,Too liberal
+18390,Q12,2,2,f,Too conservative
+18390,Q12,3,3,f,Just about right
+18390,Q12,4,4,f,(Don't know/Refused)
+18390,Q13,1,1,f,Yes-mostly positive
+18390,Q13,2,2,f,Yes-mostly negative
+18390,Q13,3,3,f,(Yes-mix of positive and negative)
+18390,Q13,4,4,f,(Yes-Don't know/Refused)
+18390,Q13,5,5,f,No
+18390,Q13,6,6,f,(Don't know/Refused)
+18390,Q14X,1,1,f,Supports veterans/first responders
+18390,Q14X,2,2,f,Supports women's rights/equal rights
+18390,Q14X,3,3,f,Pro-choice
+18390,Q14X,4,4,f,Her platform/policies/values
+18390,Q14X,5,5,f,Pro-immigration
+18390,Q14X,6,6,f,Works for the people
+18390,Q14X,7,7,f,Pro-environment
+18390,Q14X,8,8,f,Democrat
+18390,Q14X,11,9,f,Taxes
+18390,Q14X,12,10,f,Health care
+18390,Q14X,13,11,f,Stands up to Trump
+18390,Q14X,14,12,f,Seniors/Social Security/Medicare
+18390,Q14X,15,13,f,Ads/commercials (no detail)
+18390,Q14X,10,14,f,Other
+18390,Q14X,9,15,f,Can't remember
+18390,Q14Y,1,1,f,Ran for other office
+18390,Q14Y,2,2,f,Too liberal
+18390,Q14Y,3,3,f,Raise taxes
+18390,Q14Y,4,4,f,Immigration
+18390,Q14Y,5,5,f,Pro-choice
+18390,Q14Y,6,6,f,Anti-guns/Second Amendment
+18390,Q14Y,7,7,f,Anti-Trump
+18390,Q14Y,8,8,f,Her platform/policies
+18390,Q14Y,11,9,f,Democrat
+18390,Q14Y,12,10,f,General negative (no detail)
+18390,Q14Y,10,11,f,Other
+18390,Q14Y,9,12,f,Can't remember
+18390,Q15,1,1,f,Yes-mostly positive
+18390,Q15,2,2,f,Yes-mostly negative
+18390,Q15,3,3,f,(Yes-mix of positive and negative)
+18390,Q15,4,4,f,(Yes-Don't know/Refused)
+18390,Q15,5,5,f,No
+18390,Q15,6,6,f,(Don't know/Refused)
+18390,Q16X,1,1,f,Pro-Trump
+18390,Q16X,2,2,f,Personal background
+18390,Q16X,3,3,f,Taxes/Good for economy
+18390,Q16X,4,4,f,Pro-guns/Second Amendment
+18390,Q16X,5,5,f,Local/Represents the people
+18390,Q16X,6,6,f,Republican
+18390,Q16X,7,7,f,Pro-life
+18390,Q16X,11,8,f,Not Aeryn Sun
+18390,Q16X,10,9,f,General positive (no detail)
+18390,Q16X,9,10,f,Other
+18390,Q16X,8,11,f,Can't remember
+18390,Q16Y,1,1,f,Pro-Trump
+18390,Q16Y,2,2,f,Republican
+18390,Q16Y,3,3,f,His platform/policies
+18390,Q16Y,5,4,f,Ads/commercials (no detail)
+18390,Q16Y,4,5,f,Can't remember
+18390,Q2,1,1,f,Favorable-Very
+18390,Q2,2,2,f,Favorable-Somewhat
+18390,Q2,3,3,f,Unfavorable-Somewhat
+18390,Q2,4,4,f,Unfavorable-Very
+18390,Q2,5,5,f,"(Heard of, but can't rate)"
+18390,Q2,6,6,f,Haven't heard of
+18390,Q2,7,7,f,(Don't know/Refused)
+18390,Q3,1,1,f,Favorable-Very
+18390,Q3,2,2,f,Favorable-Somewhat
+18390,Q3,3,3,f,Unfavorable-Somewhat
+18390,Q3,4,4,f,Unfavorable-Very
+18390,Q3,5,5,f,"(Heard of, but can't rate)"
+18390,Q3,6,6,f,Haven't heard of
+18390,Q3,7,7,f,(Don't know/Refused)
+18390,Q4,1,1,f,Favorable-Very
+18390,Q4,2,2,f,Favorable-Somewhat
+18390,Q4,3,3,f,Unfavorable-Somewhat
+18390,Q4,4,4,f,Unfavorable-Very
+18390,Q4,5,5,f,"(Heard of, but can't rate)"
+18390,Q4,6,6,f,Haven't heard of
+18390,Q4,7,7,f,(Don't know/Refused)
+18390,Q5,1,1,f,Favorable-Very
+18390,Q5,2,2,f,Favorable-Somewhat
+18390,Q5,3,3,f,Unfavorable-Somewhat
+18390,Q5,4,4,f,Unfavorable-Very
+18390,Q5,5,5,f,"(Heard of, but can't rate)"
+18390,Q5,6,6,f,Haven't heard of
+18390,Q5,7,7,f,(Don't know/Refused)
+18390,Q6,1,1,f,Favorable-Very
+18390,Q6,2,2,f,Favorable-Somewhat
+18390,Q6,3,3,f,Unfavorable-Somewhat
+18390,Q6,4,4,f,Unfavorable-Very
+18390,Q6,5,5,f,"(Heard of, but can't rate)"
+18390,Q6,6,6,f,Haven't heard of
+18390,Q6,7,7,f,(Don't know/Refused)
+18390,Q7,1,1,f,Moya Shipson
+18390,Q7,2,2,f,Lean Moya Shipson
+18390,Q7,3,3,f,Rygel Smith
+18390,Q7,4,4,f,Lean Rygel Smith
+18390,Q7,5,5,f,(Undecided/Refused)
+18390,Q8,1,1,f,Bailar Crais
+18390,Q8,2,2,f,Lean Bailar Crais
+18390,Q8,3,3,f,Carl Dargo
+18390,Q8,4,4,f,Lean Carl Dargo
+18390,Q8,5,5,f,(Undecided/Refused)
+18390,Q9,1,1,f,A Congressmember who provides checks and balances on Donald Trump
+18390,Q9,2,2,f,A Congressmember who works with Donald Trump to get things done
+18390,Q9,3,3,f,(Undecided/Refused)
+18390,REGNUM,1,1,f,County A
+18390,REGNUM,2,2,f,County B
+18390,REGNUM,3,3,f,County C
+18390,REGNUM,4,4,f,County D
+18390,REGNUM,5,5,f,County E
+18390,S1,1,1,f,Yes
+18390,S1,2,2,f,No
+18390,S1,3,3,f,Don't know/Refused
+18390,S2,1,1,f,Definitely
+18390,S2,2,2,f,Probably
+18390,S2,3,3,f,Chance 50-50
+18390,S2,4,4,f,Probably not
+18390,S2,5,5,f,Definitely not
+18390,S2,6,6,f,Don't Know/Refused
+18390,SW2,1,1,f,Chance might consider Sun
+18390,SW2,2,2,f,NO chance would consider Sun
+18390,SW2,3,3,f,(Don't Know/Refused)
+18390,SW3,1,1,f,Chance might consider Crichton
+18390,SW3,2,2,f,NO chance would consider Crichton
+18390,SW3,3,3,f,(Don't Know/Refused)
+18390,V1,1,1,f,Aeryn Sun
+18390,V1,2,2,f,Lean Aeryn Sun
+18390,V1,3,3,f,John Crichton
+18390,V1,4,4,f,Lean John Crichton
+18390,V1,5,5,f,(Undecided/Refused)
+18058,A19,1,1,f,Very well
+18058,A19,2,2,f,Somewhat well
+18058,A19,3,3,f,Not very well
+18058,A19,4,4,f,Not well at all
+18058,A19,5,5,f,(Don't know/Refused)
+18058,A2,1,1,f,Right direction
+18058,A2,2,2,f,Wrong track
+18058,A2,3,3,f,(Neither/Mixed)
+18058,A2,4,4,f,(Don't know/Refused)
+18058,A20,1,1,f,Very well
+18058,A20,2,2,f,Somewhat well
+18058,A20,3,3,f,Not very well
+18058,A20,4,4,f,Not well at all
+18058,A20,5,5,f,(Don't know/Refused)
+18058,A21,1,1,f,Very well
+18058,A21,2,2,f,Somewhat well
+18058,A21,3,3,f,Not very well
+18058,A21,4,4,f,Not well at all
+18058,A21,5,5,f,(Don't know/Refused)
+18058,A22,1,1,f,Very well
+18058,A22,2,2,f,Somewhat well
+18058,A22,3,3,f,Not very well
+18058,A22,4,4,f,Not well at all
+18058,A22,5,5,f,(Don't know/Refused)
+18058,A5,1,1,f,Favorable-Very
+18058,A5,2,2,f,Favorable-Somewhat
+18058,A5,3,3,f,Unfavorable-Somewhat
+18058,A5,4,4,f,Unfavorable-Very
+18058,A5,5,5,f,"(Heard of, but can't rate)"
+18058,A5,6,6,f,Haven't heard of
+18058,A5,7,7,f,(Don't know/Refused)
+18058,B19,1,1,f,Very well
+18058,B19,2,2,f,Somewhat well
+18058,B19,3,3,f,Not very well
+18058,B19,4,4,f,Not well at all
+18058,B19,5,5,f,(Don't know/Refused)
+18058,B2,1,1,f,Right direction
+18058,B2,2,2,f,Wrong track
+18058,B2,3,3,f,(Neither/Mixed)
+18058,B2,4,4,f,(Don't know/Refused)
+18058,B20,1,1,f,Very well
+18058,B20,2,2,f,Somewhat well
+18058,B20,3,3,f,Not very well
+18058,B20,4,4,f,Not well at all
+18058,B20,5,5,f,(Don't know/Refused)
+18058,B21,1,1,f,Very well
+18058,B21,2,2,f,Somewhat well
+18058,B21,3,3,f,Not very well
+18058,B21,4,4,f,Not well at all
+18058,B21,5,5,f,(Don't know/Refused)
+18058,B22,1,1,f,Very well
+18058,B22,2,2,f,Somewhat well
+18058,B22,3,3,f,Not very well
+18058,B22,4,4,f,Not well at all
+18058,B22,5,5,f,(Don't know/Refused)
+18058,B5,1,1,f,Favorable-Very
+18058,B5,2,2,f,Favorable-Somewhat
+18058,B5,3,3,f,Unfavorable-Somewhat
+18058,B5,4,4,f,Unfavorable-Very
+18058,B5,5,5,f,"(Heard of, but can't rate)"
+18058,B5,6,6,f,Haven't heard of
+18058,B5,7,7,f,(Don't know/Refused)
+18058,D100,1,1,f,Male
+18058,D100,2,2,f,Female
+18058,D101,9999,1,f,Refused
+18058,D102,1,1,f,Did not complete high school
+18058,D102,2,2,f,Graduated high school
+18058,D102,3,3,f,Attended technical or vocational school
+18058,D102,4,4,f,Attended some college but no degree
+18058,D102,5,5,f,Graduated two-year college with Associate's degree
+18058,D102,6,6,f,Graduated four-year college with Bachelor's degree
+18058,D102,7,7,f,"Obtained Master's, PhD, or other professional degree (MD, DMD, etc.)"
+18058,D102,8,8,f,(Refused)
+18058,D103,1,1,f,Yes-Respondent
+18058,D103,2,2,f,Yes-Household
+18058,D103,3,3,f,Yes-Both
+18058,D103,4,4,f,No
+18058,D103,5,5,f,(Refused)
+18058,D104,1,1,f,Yes-Respondent
+18058,D104,2,2,f,Yes-Household
+18058,D104,3,3,f,Yes-Both
+18058,D104,4,4,f,No
+18058,D104,5,5,f,(Refused)
+18058,D105,1,1,f,Very liberal
+18058,D105,2,2,f,Somewhat liberal
+18058,D105,3,3,f,Moderate
+18058,D105,4,4,f,Somewhat conservative
+18058,D105,5,5,f,Very conservative
+18058,D105,6,6,f,(Refused)
+18058,D300,1,1,f,Black/African-American
+18058,D300,2,2,f,White/Caucasian
+18058,D300,3,3,f,Hispanic/Latino
+18058,D300,4,4,f,Asian-American
+18058,D300,5,5,f,Native American
+18058,D300,97,6,f,Other (Specify)
+18058,D300,99,7,f,(Refused)
+18058,D301,1,1,f,Yes
+18058,D301,2,2,f,No
+18058,D301,3,3,f,(Refused)
+18058,D801,1,1,f,Mostly or all on cell phone
+18058,D801,2,2,f,Some on cell phones and some on regular landline phones
+18058,D801,3,3,f,Mostly or all on regular landline phones
+18058,D801,4,4,f,(Not sure/Refused)
+18058,DAGE,1,1,f,18-24
+18058,DAGE,2,2,f,25-29
+18058,DAGE,3,3,f,30-34
+18058,DAGE,4,4,f,35-39
+18058,DAGE,5,5,f,40-44
+18058,DAGE,6,6,f,45-49
+18058,DAGE,7,7,f,50-54
+18058,DAGE,8,8,f,55-59
+18058,DAGE,9,9,f,60-64
+18058,DAGE,10,10,f,65-69
+18058,DAGE,11,11,f,70+
+18058,DAGE,12,12,f,Refused
+18058,DRACE,1,1,f,Black/African-American
+18058,DRACE,2,2,f,White/Caucasian
+18058,DRACE,3,3,f,Hispanic/Latino
+18058,DRACE,4,4,f,Asian-American
+18058,DRACE,5,5,f,Native American
+18058,DRACE,6,6,f,Other
+18058,DRACE,7,7,f,(Refused)
+18058,P1,1,1,f,Strong Democrat
+18058,P1,2,2,f,Weak Democrat
+18058,P1,3,3,f,Independent / Closer to the Democrats
+18058,P1,4,4,f,Independent
+18058,P1,5,5,f,Independent / Closer to the Republicans
+18058,P1,6,6,f,Weak Republican
+18058,P1,7,7,f,Strong Republican
+18058,P1,8,8,f,(Don't know/Refused)
+18058,P1X,1,1,f,Strong Democrat
+18058,P1X,2,2,f,Not very strong Democrat
+18058,P1X,3,3,f,Strong Republican
+18058,P1X,4,4,f,Not very strong Republican
+18058,P1X,5,5,f,Independent
+18058,P1X,6,6,f,(Don't know/Refused)
+18058,P1Y,1,1,f,Closer to the Democrats
+18058,P1Y,2,2,f,Closer to the Republicans
+18058,P1Y,3,3,f,(Neither/Independent)
+18058,P1Y,4,4,f,(Don't know/Refused)
+18058,P2T,1,1,f,Very excited
+18058,P2T,2,2,f,Somewhat excited
+18058,P2T,3,3,f,Not that excited
+18058,P2T,4,4,f,(Don't know/Refused)
+18058,PARTY,D,1,f,Democrat
+18058,PARTY,I,2,f,Independent/Other
+18058,PARTY,R,3,f,Republican
+18058,Q1,1,1,f,Democrat
+18058,Q1,2,2,f,Lean Democrat
+18058,Q1,3,3,f,Republican
+18058,Q1,4,4,f,Lean Republican
+18058,Q1,5,5,f,(Don't know/Refused)
+18058,Q10,1,1,f,A Congressmember who provides checks and balances on Donald Trump
+18058,Q10,2,2,f,A Congressmember who works with Donald Trump to get things done
+18058,Q10,3,3,f,(Undecided/Refused)
+18058,Q11,1,1,f,Excellent
+18058,Q11,2,2,f,Good
+18058,Q11,3,3,f,Not so good
+18058,Q11,4,4,f,Poor
+18058,Q11,5,5,f,(Don't Know/Refused)
+18058,Q12,1,1,f,Approve
+18058,Q12,2,2,f,Disapprove
+18058,Q12,3,3,f,(Don't know/Refused)
+18058,Q13,1,1,f,Too liberal
+18058,Q13,2,2,f,Too conservative
+18058,Q13,3,3,f,Just about right
+18058,Q13,4,4,f,(Don't know/Refused)
+18058,Q14,1,1,f,Yes-mostly positive
+18058,Q14,2,2,f,Yes-mostly negative
+18058,Q14,3,3,f,(Yes-mix of positive and negative)
+18058,Q14,4,4,f,(Yes-Don't know/Refused)
+18058,Q14,5,5,f,No
+18058,Q14,6,6,f,(Don't know/Refused)
+18058,Q16,1,1,f,Very well
+18058,Q16,2,2,f,Somewhat well
+18058,Q16,3,3,f,Not very well
+18058,Q16,4,4,f,Not well at all
+18058,Q16,5,5,f,(Don't know/Refused)
+18058,Q17,1,1,f,Very well
+18058,Q17,2,2,f,Somewhat well
+18058,Q17,3,3,f,Not very well
+18058,Q17,4,4,f,Not well at all
+18058,Q17,5,5,f,(Don't know/Refused)
+18058,Q18,1,1,f,Very well
+18058,Q18,2,2,f,Somewhat well
+18058,Q18,3,3,f,Not very well
+18058,Q18,4,4,f,Not well at all
+18058,Q18,5,5,f,(Don't know/Refused)
+18058,Q3,1,1,f,Favorable-Very
+18058,Q3,2,2,f,Favorable-Somewhat
+18058,Q3,3,3,f,Unfavorable-Somewhat
+18058,Q3,4,4,f,Unfavorable-Very
+18058,Q3,5,5,f,"(Heard of, but can't rate)"
+18058,Q3,6,6,f,Haven't heard of
+18058,Q3,7,7,f,(Don't know/Refused)
+18058,Q4,1,1,f,Favorable-Very
+18058,Q4,2,2,f,Favorable-Somewhat
+18058,Q4,3,3,f,Unfavorable-Somewhat
+18058,Q4,4,4,f,Unfavorable-Very
+18058,Q4,5,5,f,"(Heard of, but can't rate)"
+18058,Q4,6,6,f,Haven't heard of
+18058,Q4,7,7,f,(Don't know/Refused)
+18058,Q6,1,1,f,Favorable-Very
+18058,Q6,2,2,f,Favorable-Somewhat
+18058,Q6,3,3,f,Unfavorable-Somewhat
+18058,Q6,4,4,f,Unfavorable-Very
+18058,Q6,5,5,f,"(Heard of, but can't rate)"
+18058,Q6,6,6,f,Haven't heard of
+18058,Q6,7,7,f,(Don't know/Refused)
+18058,Q7,1,1,f,Favorable-Very
+18058,Q7,2,2,f,Favorable-Somewhat
+18058,Q7,3,3,f,Unfavorable-Somewhat
+18058,Q7,4,4,f,Unfavorable-Very
+18058,Q7,5,5,f,"(Heard of, but can't rate)"
+18058,Q7,6,6,f,Haven't heard of
+18058,Q7,7,7,f,(Don't know/Refused)
+18058,Q8,1,1,f,Moya Shipson
+18058,Q8,2,2,f,Lean Moya Shipson
+18058,Q8,3,3,f,Rygel Smith
+18058,Q8,4,4,f,Lean Rygel Smith
+18058,Q8,5,5,f,(Undecided/Refused)
+18058,Q9,1,1,f,Bailar Crais
+18058,Q9,2,2,f,Lean Bailar Crais
+18058,Q9,3,3,f,Carl Dargo
+18058,Q9,4,4,f,Lean Carl Dargo
+18058,Q9,5,5,f,(Undecided/Refused)
+18058,QAREA,1,1,f,County A
+18058,QAREA,2,2,f,County B
+18058,QAREA,3,3,f,County C
+18058,QAREA,4,4,f,County D
+18058,QAREA,5,5,f,County E
+18058,S1,1,1,f,Yes
+18058,S1,2,2,f,No
+18058,S1,3,3,f,Don't know/Refused
+18058,S2,1,1,f,Definitely
+18058,S2,2,2,f,Probably
+18058,S2,3,3,f,Chance 50-50
+18058,S2,4,4,f,Probably not
+18058,S2,5,5,f,Definitely not
+18058,S2,6,6,f,Don't Know/Refused
+18058,SW2,1,1,f,Chance might consider Sun
+18058,SW2,2,2,f,NO chance would consider Sun
+18058,SW2,3,3,f,(Don't Know/Refused)
+18058,SW3,1,1,f,Chance might consider Crichton
+18058,SW3,2,2,f,NO chance would consider Crichton
+18058,SW3,3,3,f,(Don't Know/Refused)
+18058,V1,1,1,f,Aeryn Sun
+18058,V1,2,2,f,Lean Aeryn Sun
+18058,V1,3,3,f,John Crichton
+18058,V1,4,4,f,Lean John Crichton
+18058,V1,5,5,f,(Undecided/Refused)
+18058,VER,1,1,f,A
+18058,VER,2,2,f,B

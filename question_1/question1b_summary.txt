@@ -1,4 +1,7 @@
-Gave responders a +/- 1 year on age match
-if gender matched sex or gender was not entered as male/female assumed match
+I made two specific choices, one of which I feel is a little questionable:
 
-basically assume match.
+    1) Regarding age I gave responses a +/- 1 year margin for error, given that getting age by subtracting birth year form "current" year will be off depending on birthday.
+        - worth mentioning, I considered giving an even greater margin for error to account for the fact that people frequently lie about their age. Ultimately decided it wasn't worth it for the excercise.
+
+    2) Regarding sex/gender identification, I took the most direct path, where a match meanth a positive result, a binary sex/gender mismatch meant a negative result, and "non-binary", "other", and "refused" were left positive. I personally feel like this is probably a bad methodolgy, but without more data it's difficult to make more informed decisions. For example this method does not account for gender-fluid respondents who might give different answers at different times. In addition, no allowances are made for respondents who have undergone sex-reassignment surgery. So I'm not thrilled with my solution, but it's functional.
+        - if I were to start over I might choose to just ignore the Sex/Gender match field entirely. Need more research.
