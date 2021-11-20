@@ -1,9 +1,5 @@
-
-
-from re import S
 from sqlalchemy.sql import func
 import pandas as pd
-from sqlalchemy.sql.selectable import subquery
 
 from db import session
 from db import Match as m
@@ -14,7 +10,6 @@ no_count = 0
 min_match = 0.7
 min_diff = 0.2
 
-
 # --------------------
 print("\n\nHello there! Would you like to plaly a game?")
 print("To get started, please choose a minimum match score:\n")
@@ -24,7 +19,6 @@ min_match = float(input("minimum match: "))
 print("\nGreat! One more step - please choose a minimum difference threshold:\n")
 
 min_diff = float(input("minimum difference: "))
-
 # --------------------
 
 
