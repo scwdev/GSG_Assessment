@@ -1,3 +1,8 @@
+import os
+
+from dotenv import load_dotenv
+load_dotenv()
+
 import sqlalchemy
 from sqlalchemy import Column, Integer, Float, String, Boolean
 from sqlalchemy.ext.declarative import declarative_base
@@ -14,7 +19,7 @@ def bool_parse(s:str):
     if s == "t":
         return True
 
-engine = sqlalchemy.create_engine('postgresql://scwd:ofekdekel@localhost:5432/vf_data')
+engine = sqlalchemy.create_engine(os.environ.get("PGRES_URI"))
 Session = sessionmaker(bind=engine)
 session = Session()
 
